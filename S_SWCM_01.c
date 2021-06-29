@@ -4,5 +4,5 @@
 int main()
 {
 
-    printf("Hellloooooooo");
+    printf("Hello Sprints");
 }
